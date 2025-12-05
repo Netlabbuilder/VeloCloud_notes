@@ -1,18 +1,18 @@
-A checklist to get a VeloCloud virtual edge up and running:
+A checklist to get a VeloCloud Virtual Edge up and running:
 
-- Edge profile supports Virtual Edge model:
+- On VeloCloud Orchstrator, check whether Edge profile supports Virtual Edge model:
   
   <img width="358" alt="image" src="https://github.com/user-attachments/assets/6605762f-87fe-4904-a899-82a3f623754e" />
 
-- Software images for Virtual Edge model:
+- On VeloCloud Orchstrator, check Software images for Virtual Edge model:
 
   <img width="569" alt="image" src="https://github.com/user-attachments/assets/0b0daa2f-2607-43ba-9f7a-5e59c86a6a3f" />
 
-- Operator profile supports Virtual Edge model:
+- On VeloCloud Orchstrator, check Operator profile supports Virtual Edge model:
 
   <img width="739" alt="image" src="https://github.com/user-attachments/assets/6241116c-ef40-4778-8d5f-552c2a615910" />
 
-- Provision an Edge with Virtual Edge model:
+- On VeloCloud Orchstrator, provision an Edge with Virtual Edge model:
 
   <img width="639" alt="image" src="https://github.com/user-attachments/assets/667cd61d-fb78-45fe-beba-7c53c4ce728b" />
 
