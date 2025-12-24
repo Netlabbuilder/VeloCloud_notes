@@ -4,7 +4,7 @@ A checklist to get a VeloCloud Virtual Edge up and running:
   
   <img width="358" alt="image" src="https://github.com/user-attachments/assets/6605762f-87fe-4904-a899-82a3f623754e" />
 
-- On VeloCloud Orchstrator, check Software images for Virtual Edge model:
+- On VeloCloud Orchestrator, check Software images for Virtual Edge model:
 
   <img width="569" alt="image" src="https://github.com/user-attachments/assets/0b0daa2f-2607-43ba-9f7a-5e59c86a6a3f" />
 
